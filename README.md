@@ -1,4 +1,4 @@
-# about me:
+# about me
 
 - 🔭 I’m currently working at a publicity agency.
 - 🌱 I’m currently learning about data science.
