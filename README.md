@@ -1,9 +1,4 @@
-# about me
-
-
-**EtherealMagic/EtherealMagic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+# about me:
 
 - 🔭 I’m currently working at a publicity agency.
 - 🌱 I’m currently learning about data science.
